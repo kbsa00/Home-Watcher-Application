@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWatcherApp</string>
+    <string name="headertxt">Home-Watcher</string>
+    <string name="hinttextUsername">Enter your username</string>
+    <string name="hintpassordtxt">Enter your password</string>
+    <string name="buttontxt">LOGG IN</string>
+    <string name="subheadertxt">Log in with your Particle account</string>
+</resources>
